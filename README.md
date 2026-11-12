@@ -6,7 +6,7 @@
 
 **An Agent Skill that helps your AI ask the questions you didn't know to ask.**
 
-[Français](README.fr.md) · [The skill](skills/omega/SKILL.md) · [Example conversations](examples.md) · [V1 checks](evaluation.md)
+[Français](README.fr.md) · [The skill](skills/omega/SKILL.md) · [Example conversations](examples.md) · [V1 checks](evaluation.md) · [Launch copy](launch-copy.md)
 
 You know what you want to achieve. You may not know the language of lighting, software architecture, typography, or access control. OMÉGA helps an assistant bridge that gap through a guided conversation.
 
