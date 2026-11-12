@@ -6,7 +6,7 @@
 
 **Le skill qui aide ton IA à poser les questions auxquelles tu n'aurais pas pensé.**
 
-[English](README.md) · [Le skill](skills/omega/SKILL.md) · [Exemples](examples.md)
+[English](README.md) · [Le skill](skills/omega/SKILL.md) · [Exemples](examples.md) · [Texte de lancement](launch-copy.md)
 
 Tu peux vouloir une image sans connaître la profondeur de champ, ou une application sans savoir ce qu'est un backend. OMÉGA aide l'IA à partir de ton intention, à expliquer les choix utiles et à faire apparaître les besoins que tu n'as pas encore les mots pour exprimer.
 
