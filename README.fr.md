@@ -1,5 +1,7 @@
 # Ω OMÉGA
 
+[![Installer avec skills.sh](https://skills.sh/b/Nisaydaturtle/omega-agent-skill)](https://skills.sh/Nisaydaturtle/omega-agent-skill)
+
 ### Ton idée ne devrait pas exiger un vocabulaire d'expert.
 
 **Le skill qui aide ton IA à poser les questions auxquelles tu n'aurais pas pensé.**
@@ -34,7 +36,13 @@ Il explique les conséquences et propose les choix techniques. La protection des
 
 ## L'utiliser
 
-Installe le dossier complet [`skills/omega`](skills/omega) selon la méthode de ton application compatible Agent Skills. Conserve ses fichiers et sous-dossiers ensemble, puis sélectionne OMÉGA dans l'interface des skills.
+**Installation rapide** avec le CLI skills :
+
+```bash
+npx skills add Nisaydaturtle/omega-agent-skill --skill omega
+```
+
+Tu peux aussi installer le dossier complet [`skills/omega`](skills/omega) selon la méthode de ton agent compatible. Conserve `SKILL.md`, `references/` et `agents/` ensemble. Le CLI peut envoyer à skills.sh des statistiques anonymes d'installation ; ajoute `DISABLE_TELEMETRY=1` pour désactiver cette télémétrie.
 
 > Utilise OMÉGA. Je veux préparer le brief d'une image mais je manque de vocabulaire. Aide-moi à découvrir les possibilités et à préciser ma vision avec des questions progressives.
 
