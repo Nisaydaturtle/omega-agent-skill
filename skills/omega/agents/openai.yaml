@@ -1,0 +1,4 @@
+interface:
+  display_name: "OMÉGA"
+  short_description: "Clarifie ton idée et découvre les choix qui comptent"
+  default_prompt: "Utilise $omega pour clarifier mon idée avec des questions progressives, découvrir les choix auxquels je ne pense pas et produire un brief réalisable."
