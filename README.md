@@ -1,5 +1,7 @@
 # Ω OMÉGA
 
+[![Install via skills.sh](https://skills.sh/b/Nisaydaturtle/omega-agent-skill)](https://skills.sh/Nisaydaturtle/omega-agent-skill)
+
 ### Your idea shouldn't need an expert vocabulary.
 
 **An Agent Skill that helps your AI ask the questions you didn't know to ask.**
@@ -32,7 +34,13 @@ The user owns the intention. The assistant proposes the technical translation an
 
 ## Try it
 
-Install the complete [`skills/omega`](skills/omega) folder using your Agent Skills-compatible client's supported installation method. Keep `SKILL.md`, `references/`, and `agents/` together. Activation and installation interfaces vary by client.
+**Quick install** with the skills CLI:
+
+```bash
+npx skills add Nisaydaturtle/omega-agent-skill --skill omega
+```
+
+Or install the complete [`skills/omega`](skills/omega) folder using your Agent Skills-compatible client's supported method. Keep `SKILL.md`, `references/`, and `agents/` together. The CLI can report anonymous installation counts to skills.sh; set `DISABLE_TELEMETRY=1` to opt out.
 
 Then invoke OMÉGA through your client's skill selector, with a request like:
 
